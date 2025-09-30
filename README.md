@@ -9,3 +9,7 @@ Module 6 Project for Data Analysis Fundamentals class.
 4) Created requirements.txt
 5) git-add-commit-push
 6) Created and activated .venv
+
+# Choose Data Set 
+
+I chose a data set called Student Performance in Exams. It has data on students' gender, race/ethnicity, parent level of education, free-lunch eligibility, test preparation, math score, reading score, and writing score. 
